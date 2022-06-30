@@ -4,6 +4,6 @@
 <div id="badges" align="center">
   <a href="">
     <img src="https://img.shields.io/badge/discord-purple?logo=discord&logoColor=blue&style=for-the-badge" alt="Discord Badge"/>
-    <img src="https://img.shields.io/badge/instagram-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt=
+    <img src="https://img.shields.io/badge/instagram-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </dib>
