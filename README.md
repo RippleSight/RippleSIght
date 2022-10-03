@@ -7,4 +7,4 @@
 - 📫 How to reach me: Carrd links current socials -> [Carrd](https://unyieldingscythe.carrd.co/)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=RippleSIght&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=d6653f">
+<img src="https://github-readme-stats.vercel.app/api?username=RippleSIght&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0f241c">
