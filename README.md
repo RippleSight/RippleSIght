@@ -1,9 +1,9 @@
-### Hello, I'm Ryan Oliver
+### Hello, I'm Rex Clayton
 
 - 📗 I'm currently working on Fiverr.
 - 🌵 I'm currently learning Javascript and C++.
 - 🕴️ I'm looking to collaborate on Discord.
-- 🤔 I'm looking for help with SqlPy documentation.
+- 🤔 I'm looking for help with SqlPy and typescript documentation.
 - 📫 How to reach me: Carrd links current socials -> [Carrd](https://unyieldingscythe.carrd.co/)
 
 
